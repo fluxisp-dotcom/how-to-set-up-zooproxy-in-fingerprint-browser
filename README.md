@@ -1,3 +1,5 @@
+很多人只知道使用sk5会更稳定，成本也更小一些，但是都不知道如何去操作配置
+今天就以本人正在使用的Zooproxy和Morelogin浏览器来进行说明一下。
 # 如何在指纹浏览器中设置 Zooproxy代理IP
 
 Zooproxy 提供全球高速代理 IP 服务，包括动态、静态、无限端口、无限带宽等。此类服务常用于跨境业务。下面，我将以 Morelogin 指纹浏览器为例，详细介绍如何在指纹浏览器中设置 Zooproxy 代理 IP。
@@ -7,19 +9,19 @@ Zooproxy代理IP提供动态、静态、无限端口、无限带宽等套餐，�
 
 1.进入[ZooProxy](https://zooproxy.com/?kwd=LQ-git)官网，注册登录后台。
 
-![图片描述](https://cdn.imagetourls.com/uploads/tyImg/2iOGTxtz.png)
+
 
 2.进入控制台，根据需求选择合适的套餐IP(这里选择静态住宅IP)
 
-![图片描述](https://cdn.imagetourls.com/uploads/tyImg/oqhxi3U9.png)
+
 
 点击立即购买就会跳转至购买界面
 
-![图片描述](https://cdn.imagetourls.com/uploads/tyImg/WMTicaFu.png)
+
 
 3.购买完成返回控制台静态ip界面，选择国家城市，下方有IP号段与城市进行参考，选择一个进行提取，最好选择洛杉矶ip
 
-![图片描述](https://cdn.imagetourls.com/uploads/tyImg/12Ja1fWu1.png)
+
 
 
 # 二、本地切换外网访问
@@ -32,21 +34,21 @@ Zooproxy代理IP提供动态、静态、无限端口、无限带宽等套餐，�
 
 2.选择一个自己要的国家节点，右键设为活动，即可链接，也可以测试一下延迟
 
-![图片描述](https://cdn.imagetourls.com/uploads/tyImg/6zds2rIf.png)
+
 
 # 三、下载指纹浏览器（以Morelogin指纹浏览器为例）
 
 1.进入[Morelogin指纹浏览器](https://www.morelogin.com/)官网 ，下载客户端
 
-![图片描述](https://cdn.imagetourls.com/uploads/tyImg/1at68862r.png)
+
 
 2.找到代理，添加代理，将购买的ip信息配置上，注意代理类型，填写ip信息，也可以进行ip检测。
 
-![图片描述](https://cdn.imagetourls.com/uploads/tyImg/ixcZcnvz.png)
+
 
 3.配置完成后，找到环境，启动该配置，就可以使用了
 
-![图片描述](https://cdn.imagetourls.com/uploads/tyImg/nzSITSbm.png)
+
 
 # 四、Zooproxy目前免费开放1TB动态住宅IP进行试用
 
