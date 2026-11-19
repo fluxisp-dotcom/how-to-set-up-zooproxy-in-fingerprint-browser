@@ -9,7 +9,7 @@ Zooproxy代理IP提供动态、静态、无限端口、无限带宽等套餐，�
 
 1.进入[ZooProxy](https://zooproxy.com/?kwd=LQ-git)官网，注册登录后台。
 
-https://github.com/fluxisp-dotcom/how-to-set-up-zooproxy-in-fingerprint-browser/blob/58e25df10040d635a5123c6af1471fcf2d24c7f0/12.webp
+![图片描述](https://github.com/fluxisp-dotcom/how-to-set-up-zooproxy-in-fingerprint-browser/blob/58e25df10040d635a5123c6af1471fcf2d24c7f0/12.webp)
 
 2.进入控制台，根据需求选择合适的套餐IP(这里选择静态住宅IP)
 
